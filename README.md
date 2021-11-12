@@ -1,6 +1,6 @@
 # Design Patterns
 
-- [SOLID](https://github.com/MetaArivu/design-patterns/tree/main/solid-design-pattern)
+- [SOLID](https://github.com/MetaArivu/design-patterns/tree/main/01-solid-design-pattern)
     - Single Responsbility Pattern
     - Open Closed Principle
     - Liskov Substitution Principle
