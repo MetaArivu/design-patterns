@@ -9,7 +9,7 @@
     - Dependency Inversion Principle
 
 
-## - [Creational](https://github.com/MetaArivu/design-patterns/tree/main/01-creational-design-pattern)
+## - [Creational](https://github.com/MetaArivu/design-patterns/tree/main/02-creational-design-pattern)
     - Builder
     - Simple Factory
     - Factory Method
