@@ -1,12 +1,25 @@
 # Design Patterns
 
-- [SOLID](https://github.com/MetaArivu/design-patterns/tree/main/01-solid-design-pattern)
+
+##  - [SOLID](https://github.com/MetaArivu/design-patterns/tree/main/01-solid-design-pattern)
     - Single Responsbility Pattern
     - Open Closed Principle
     - Liskov Substitution Principle
     - Interface Segregation Principle
     - Dependency Inversion Principle
 
+
+## - [Creational](https://github.com/MetaArivu/design-patterns/tree/main/01-creational-design-pattern)
+    - Builder
+    - Simple Factory
+    - Factory Method
+    - Prototype
+    - Singleton
+    - Abstract Factory
+    - Object Pool
+
+- Structural 
+- Behaviour
 
  ## License  
 
