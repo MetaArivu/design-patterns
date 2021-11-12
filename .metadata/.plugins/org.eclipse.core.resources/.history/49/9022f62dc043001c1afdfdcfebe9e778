@@ -1,0 +1,25 @@
+package com.srp;
+
+import java.io.IOException;
+
+//Handles incoming JSON requests that work on User resource/entity
+public class UserAPI {
+	// Store used by controller
+	private UserPersistenceService persistenceService = new UserPersistenceService();
+
+	// Create a new user
+	public String createUser(User user) throws IOException {
+
+		UserValidator validator = new UserValidator();
+		boolean valid = validator.validateUser(user);
+
+		if (!valid) {
+			return "ERROR";
+		}
+
+		persistenceService.saveUser(user);
+
+		return "SUCCESS";
+	}
+
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/ketangote/workspace_learning/design-patterns/.metadata/.plugins/org.eclipse.jdt.core
+3267993472.index
+2812418536.index
