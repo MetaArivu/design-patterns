@@ -19,8 +19,18 @@
     - Object Pool
 
 - Structural 
+    - Adapter
+    - Bridge
+    - Decorator
+    - Composite
+    - Proxy
+    
 - Behaviour
 
+- Reference Links
+    - https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+    - https://refactoring.guru/design-patterns/what-is-pattern
+    
  ## License  
 
 Copyright © [MetaMagic Global Inc](http://www.metamagicglobal.com/), 2021-22.  All rights reserved.
