@@ -28,15 +28,9 @@
 - Behaviour
     - Chain Of Responsibility
     - Command
-    - Interpreter
-    - Mediator
-    - Iterator
-    - Memento
     - Observer
     - State
     - Strategy
-    - Template Method
-    - Visitor
     - Null object
 
 - Reference Links
