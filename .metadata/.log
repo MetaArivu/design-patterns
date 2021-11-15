@@ -790,3 +790,18 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:06:19.467
 !MESSAGE executing callback sts4.classpath.gzhuONyM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:08:33.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:08:33.202
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:08:33.203
+!MESSAGE buffering callback sts4.classpath.gzhuONyM 04-behavioural-design-pattern false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:08:33.204
+!MESSAGE executing callback sts4.classpath.gzhuONyM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 10:08:33.207
+!MESSAGE executing callback sts4.classpath.gzhuONyM SUCCESS [done]
